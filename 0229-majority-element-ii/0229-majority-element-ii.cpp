@@ -7,7 +7,7 @@ public:
         int el2 = INT_MIN;
         int n=nums.size();
         
-        int q = (int)(n/3)+1;
+        int q = (n/3)+1;
 
         for(int i=0;i<n;i++){
             if (cnt1==0 && nums[i] != el2){
