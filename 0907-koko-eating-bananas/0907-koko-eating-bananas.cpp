@@ -13,10 +13,10 @@ int n=v.size();
 
 for(int i=0;i<n;i++){
     if (hourly > 0) {
-            th += (v[i] + hourly - 1) / hourly; // Equivalent to ceil((double)(v[i]) / (double)(hourly))
+            th += (v[i] + hourly - 1) / hourly; 
         } else {
-            // This should not happen due to our binary search logic
-            return INT_MAX; // Return a large number to indicate invalid rate
+          
+            return INT_MAX;
         }
 }
 return th;
