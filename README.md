@@ -6,7 +6,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Kanishkk-1/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kanishkk-1/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 # Binary Search
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Kanishkk-1/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Kanishkk-1/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
