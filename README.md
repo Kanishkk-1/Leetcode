@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Kanishkk-1/Leetcode/tree/master/0409-longest-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [3379-score-of-a-string](https://github.com/Kanishkk-1/Leetcode/tree/master/3379-score-of-a-string) |
 # Hash Table
 |  |
@@ -51,3 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0523-continuous-subarray-sum) |
+# Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
