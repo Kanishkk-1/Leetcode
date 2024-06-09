@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Kanishkk-1/Leetcode/tree/master/0409-longest-palindrome) |
 | [1078-remove-outermost-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [3379-score-of-a-string](https://github.com/Kanishkk-1/Leetcode/tree/master/3379-score-of-a-string) |
@@ -59,3 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+# Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
