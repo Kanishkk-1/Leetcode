@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Kanishkk-1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kanishkk-1/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Kanishkk-1/Leetcode/tree/master/0409-longest-palindrome) |
+| [0812-rotate-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishkk-1/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3379-score-of-a-string](https://github.com/Kanishkk-1/Leetcode/tree/master/3379-score-of-a-string) |
@@ -80,3 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kanishkk-1/Leetcode/tree/master/0242-valid-anagram) |
+# String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0812-rotate-string) |
