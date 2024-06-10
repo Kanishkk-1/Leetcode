@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Kanishkk-1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kanishkk-1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Kanishkk-1/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Kanishkk-1/Leetcode/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishkk-1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0812-rotate-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Kanishkk-1/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -104,3 +106,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishkk-1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Kanishkk-1/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
