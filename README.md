@@ -84,4 +84,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String Matching
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Kanishkk-1/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0812-rotate-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0812-rotate-string) |
