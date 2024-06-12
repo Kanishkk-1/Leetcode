@@ -117,3 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Kanishkk-1/Leetcode/tree/master/1217-relative-sort-array) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
