@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 # Two Pointers
 |  |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Kanishkk-1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 # Trie
 |  |
@@ -134,9 +136,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Kanishkk-1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 # Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0234-palindrome-linked-list) |
