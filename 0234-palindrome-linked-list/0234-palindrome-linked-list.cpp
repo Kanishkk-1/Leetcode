@@ -38,7 +38,7 @@ public:
      
         while(second!=NULL){
           if(first->val!=second->val){
-           ReverseLinkedList(slow);
+        //    ReverseLinkedList(slow);
            return false;
           }
          first=first->next;
