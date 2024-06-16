@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kanishkk-1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Kanishkk-1/Leetcode/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/Kanishkk-1/Leetcode/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Kanishkk-1/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Kanishkk-1/Leetcode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Kanishkk-1/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Kanishkk-1/Leetcode/tree/master/0502-ipo) |
