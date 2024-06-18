@@ -35,10 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kanishkk-1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0410-split-array-largest-sum) |
 # Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0330-patching-array](https://github.com/Kanishkk-1/Leetcode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Kanishkk-1/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Kanishkk-1/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Kanishkk-1/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishkk-1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0812-rotate-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Kanishkk-1/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kanishkk-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kanishkk-1/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Kanishkk-1/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0234-palindrome-linked-list) |
