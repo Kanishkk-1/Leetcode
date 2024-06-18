@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Kanishkk-1/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kanishkk-1/Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0330-patching-array](https://github.com/Kanishkk-1/Leetcode/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Kanishkk-1/Leetcode/tree/master/0502-ipo) |
@@ -183,7 +184,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Kanishkk-1/Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0090-subsets-ii) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kanishkk-1/Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0090-subsets-ii) |
