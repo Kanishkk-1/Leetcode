@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Kanishkk-1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0044-wildcard-matching) |
+| [0131-palindrome-partitioning](https://github.com/Kanishkk-1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0410-split-array-largest-sum) |
 # Greedy
 |  |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kanishkk-1/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0044-wildcard-matching) |
+| [0131-palindrome-partitioning](https://github.com/Kanishkk-1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishkk-1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0812-rotate-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Kanishkk-1/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Kanishkk-1/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Kanishkk-1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/0216-combination-sum-iii) |
 # Bit Manipulation
 |  |
