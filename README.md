@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Kanishkk-1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanishkk-1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Kanishkk-1/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Kanishkk-1/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kanishkk-1/Leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Kanishkk-1/Leetcode/tree/master/0409-longest-palindrome) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Kanishkk-1/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Kanishkk-1/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0187-repeated-dna-sequences](https://github.com/Kanishkk-1/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishkk-1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0812-rotate-string) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/Kanishkk-1/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Kanishkk-1/Leetcode/tree/master/0187-repeated-dna-sequences) |
 # Matrix
 |  |
 | ------- |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kanishkk-1/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1138-grumpy-bookstore-owner](https://github.com/Kanishkk-1/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 # Tree
 |  |
@@ -239,3 +243,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
+# Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kanishkk-1/Leetcode/tree/master/0187-repeated-dna-sequences) |
+# Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kanishkk-1/Leetcode/tree/master/0187-repeated-dna-sequences) |
