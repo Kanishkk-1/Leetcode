@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Kanishkk-1/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Kanishkk-1/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishkk-1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Kanishkk-1/Leetcode/tree/master/0812-rotate-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Kanishkk-1/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kanishkk-1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -225,3 +227,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Kanishkk-1/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+# Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
+# Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
+# Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
