@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Kanishkk-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Kanishkk-1/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Kanishkk-1/Leetcode/tree/master/0050-powx-n) |
+| [0223-rectangle-area](https://github.com/Kanishkk-1/Leetcode/tree/master/0223-rectangle-area) |
 | [0523-continuous-subarray-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishkk-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishkk-1/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -255,3 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kanishkk-1/Leetcode/tree/master/0187-repeated-dna-sequences) |
+# Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Kanishkk-1/Leetcode/tree/master/0223-rectangle-area) |
