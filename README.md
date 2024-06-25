@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Kanishkk-1/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Kanishkk-1/Leetcode/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/Kanishkk-1/Leetcode/tree/master/0461-hamming-distance) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kanishkk-1/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kanishkk-1/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 # Matrix
