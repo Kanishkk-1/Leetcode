@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Kanishkk-1/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Kanishkk-1/Leetcode/tree/master/0050-powx-n) |
 | [0223-rectangle-area](https://github.com/Kanishkk-1/Leetcode/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/Kanishkk-1/Leetcode/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishkk-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishkk-1/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Kanishkk-1/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Kanishkk-1/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0234-palindrome-linked-list) |
 # Backtracking
 |  |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Kanishkk-1/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Kanishkk-1/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Kanishkk-1/Leetcode/tree/master/0231-power-of-two) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kanishkk-1/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Matrix
 |  |
