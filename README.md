@@ -250,14 +250,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Rolling Hash
 |  |
 | ------- |
@@ -278,3 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kanishkk-1/Leetcode/tree/master/0042-trapping-rain-water) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
