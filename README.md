@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Kanishkk-1/Leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Kanishkk-1/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishkk-1/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kanishkk-1/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Prefix Sum
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kanishkk-1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1285-balance-a-binary-search-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Math
 |  |
 | ------- |
@@ -260,16 +262,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kanishkk-1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Rolling Hash
 |  |
 | ------- |
@@ -294,3 +299,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
