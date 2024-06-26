@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Kanishkk-1/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Kanishkk-1/Leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Kanishkk-1/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0330-patching-array](https://github.com/Kanishkk-1/Leetcode/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Kanishkk-1/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Kanishkk-1/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Kanishkk-1/Leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Kanishkk-1/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Kanishkk-1/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Kanishkk-1/Leetcode/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -300,3 +302,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kanishkk-1/Leetcode/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kanishkk-1/Leetcode/tree/master/0204-count-primes) |
