@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/Kanishkk-1/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/Kanishkk-1/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Kanishkk-1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Kanishkk-1/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Kanishkk-1/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kanishkk-1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Kanishkk-1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0575-distribute-candies](https://github.com/Kanishkk-1/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Kanishkk-1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kanishkk-1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/Kanishkk-1/Leetcode/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishkk-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Kanishkk-1/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishkk-1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Kanishkk-1/Leetcode/tree/master/0502-ipo) |
+| [0594-longest-harmonious-subsequence](https://github.com/Kanishkk-1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Kanishkk-1/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Kanishkk-1/Leetcode/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Kanishkk-1/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting Sort
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Kanishkk-1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Kanishkk-1/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/Kanishkk-1/Leetcode/tree/master/1217-relative-sort-array) |
 # Linked List
@@ -258,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kanishkk-1/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0594-longest-harmonious-subsequence](https://github.com/Kanishkk-1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kanishkk-1/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Kanishkk-1/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishkk-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
