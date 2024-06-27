@@ -310,3 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kanishkk-1/Leetcode/tree/master/0204-count-primes) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Kanishkk-1/Leetcode/tree/master/1916-find-center-of-star-graph) |
