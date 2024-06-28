@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kanishkk-1/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Kanishkk-1/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Kanishkk-1/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 # Two Pointers
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kanishkk-1/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Kanishkk-1/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Monotonic Stack
 |  |
@@ -325,3 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Kanishkk-1/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Kanishkk-1/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+# Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kanishkk-1/Leetcode/tree/master/0225-implement-stack-using-queues) |
