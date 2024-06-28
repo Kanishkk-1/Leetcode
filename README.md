@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1285-balance-a-binary-search-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2032-largest-odd-number-in-string](https://github.com/Kanishkk-1/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kanishkk-1/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Kanishkk-1/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Prefix Sum
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/Kanishkk-1/Leetcode/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Kanishkk-1/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Kanishkk-1/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Kanishkk-1/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # String Matching
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Kanishkk-1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Kanishkk-1/Leetcode/tree/master/0502-ipo) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Kanishkk-1/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Bucket Sort
 |  |
 | ------- |
@@ -321,3 +324,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Kanishkk-1/Leetcode/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Kanishkk-1/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
