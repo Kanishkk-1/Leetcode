@@ -4,21 +4,17 @@ public:
         stack<int> st;
         int n = nums.size();
         
-        for(int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             if (!st.empty()) {
                 if (st.top() > 0 && nums[i] > 0) {
                     st.push(nums[i]);
                 } else if (st.top() > 0 && nums[i] < 0) {
-                    bool flag = false;
-                    while (!st.empty() && st.top() > 0 && st.top() <= abs(nums[i])) {
-                        if (st.top() == abs(nums[i])) {
-                            st.pop();
-                            flag = true;
-                            break;
-                        }
+                    while (!st.empty() && st.top() > 0 && st.top() < abs(nums[i])) {
                         st.pop();
                     }
-                    if (!flag) {
+                    if (!st.empty() && st.top() == abs(nums[i])) {
+                        st.pop();
+                    } else {
                         if (st.empty() || st.top() < 0) {
                             st.push(nums[i]);
                         }
