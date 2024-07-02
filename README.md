@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Kanishkk-1/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Kanishkk-1/Leetcode/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishkk-1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Kanishkk-1/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2227-sum-of-subarray-ranges](https://github.com/Kanishkk-1/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kanishkk-1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Kanishkk-1/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/Kanishkk-1/Leetcode/tree/master/0456-132-pattern) |
+| [1046-max-consecutive-ones-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -488,4 +491,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Kanishkk-1/Leetcode/tree/master/0456-132-pattern) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
