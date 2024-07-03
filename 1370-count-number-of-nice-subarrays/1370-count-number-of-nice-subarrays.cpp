@@ -1,41 +1,24 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        int i=0;
-        int j=0;
-        int count=0;
-        int result=0;
-        int first_occur=0;
-        vector<int>occur(nums.size(),0);
-        int index=0;
-        int current=0;
-        // Variable window size problem
-        while(j<nums.size())
-        {
-            // Do pre-calculation
-            if(nums[j]%2!=0)
-            {count++;
-             occur[index++]=j;}
-            // Play with condition
-            if(count<k)
-                j++;
-            else
-            {
-              while(count>k)
-              {
-                  // remove calculation for i
-                  if(nums[i]%2!=0)
-                  {count--;current++;}
-                  i++;
-              }
-                
-                // Store result
-                result+=occur[current]+1-i;
-                j++;
+    int subArray(vector<int>& nums, int k) {
+        int count = 0, ans = 0, start = 0, end = 0;
+        int n = nums.size();
+        while(end<n){
+            if(nums[end]%2==1){
+                count++;
             }
-            
-            
+            while(count>k){
+                if(nums[start]%2==1){
+                    count--;
+                }
+                start++;
+            }
+            ans += end-start+1;
+            end++;
         }
-        return result;
+        return ans;
+    }
+    int numberOfSubarrays(vector<int>& nums, int k) {
+      return subArray(nums, k) - subArray(nums, k - 1);
     }
 };
