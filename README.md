@@ -396,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Kanishkk-1/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Kanishkk-1/Leetcode/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishkk-1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Kanishkk-1/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kanishkk-1/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Kanishkk-1/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Kanishkk-1/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Kanishkk-1/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kanishkk-1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Kanishkk-1/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kanishkk-1/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -500,5 +503,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
