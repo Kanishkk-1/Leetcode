@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kanishkk-1/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kanishkk-1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kanishkk-1/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Kanishkk-1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Kanishkk-1/Leetcode/tree/master/0402-remove-k-digits) |
@@ -542,9 +544,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
