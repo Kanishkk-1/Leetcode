@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Kanishkk-1/Leetcode/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/Kanishkk-1/Leetcode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Kanishkk-1/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Kanishkk-1/Leetcode/tree/master/2645-pass-the-pillow) |
 ## String
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishkk-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1642-water-bottles](https://github.com/Kanishkk-1/Leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Kanishkk-1/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Counting
 |  |
