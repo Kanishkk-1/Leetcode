@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kanishkk-1/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kanishkk-1/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/Kanishkk-1/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Kanishkk-1/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kanishkk-1/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishkk-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanishkk-1/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -521,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0883-car-fleet](https://github.com/Kanishkk-1/Leetcode/tree/master/0883-car-fleet) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kanishkk-1/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
@@ -577,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -590,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
