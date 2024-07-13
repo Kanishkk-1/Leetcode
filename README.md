@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Kanishkk-1/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kanishkk-1/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/Kanishkk-1/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2846-robot-collisions](https://github.com/Kanishkk-1/Leetcode/tree/master/2846-robot-collisions) |
 ## Design
 |  |
 | ------- |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Kanishkk-1/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kanishkk-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/Kanishkk-1/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2846-robot-collisions](https://github.com/Kanishkk-1/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kanishkk-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Kanishkk-1/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Kanishkk-1/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/Kanishkk-1/Leetcode/tree/master/2846-robot-collisions) |
 ## String
 |  |
 | ------- |
@@ -551,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/Kanishkk-1/Leetcode/tree/master/0883-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kanishkk-1/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2846-robot-collisions](https://github.com/Kanishkk-1/Leetcode/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
 | ------- |
