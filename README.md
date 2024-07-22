@@ -458,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2227-sum-of-subarray-ranges](https://github.com/Kanishkk-1/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Kanishkk-1/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Kanishkk-1/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Kanishkk-1/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Kanishkk-1/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishkk-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanishkk-1/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Kanishkk-1/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/Kanishkk-1/Leetcode/tree/master/2502-sort-the-people) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Kanishkk-1/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kanishkk-1/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kanishkk-1/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/Kanishkk-1/Leetcode/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -578,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/Kanishkk-1/Leetcode/tree/master/0883-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kanishkk-1/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/Kanishkk-1/Leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Kanishkk-1/Leetcode/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
