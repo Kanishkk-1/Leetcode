@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Kanishkk-1/Leetcode/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/Kanishkk-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0883-car-fleet](https://github.com/Kanishkk-1/Leetcode/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/Kanishkk-1/Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Kanishkk-1/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishkk-1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Kanishkk-1/Leetcode/tree/master/0948-sort-an-array) |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Kanishkk-1/Leetcode/tree/master/0402-remove-k-digits) |
+| [0890-lemonade-change](https://github.com/Kanishkk-1/Leetcode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Kanishkk-1/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Kanishkk-1/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kanishkk-1/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
