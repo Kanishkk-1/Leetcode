@@ -495,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/Kanishkk-1/Leetcode/tree/master/0146-lru-cache) |
+| [0264-ugly-number-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kanishkk-1/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Kanishkk-1/Leetcode/tree/master/0460-lfu-cache) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kanishkk-1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0264-ugly-number-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishkk-1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/Kanishkk-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kanishkk-1/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -608,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kanishkk-1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Kanishkk-1/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kanishkk-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Kanishkk-1/Leetcode/tree/master/0948-sort-an-array) |
 ## Monotonic Queue
@@ -672,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Kanishkk-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Kanishkk-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishkk-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
