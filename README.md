@@ -548,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Kanishkk-1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kanishkk-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Kanishkk-1/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kanishkk-1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/Kanishkk-1/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kanishkk-1/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Kanishkk-1/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Kanishkk-1/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Kanishkk-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Kanishkk-1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/Kanishkk-1/Leetcode/tree/master/1642-water-bottles) |
