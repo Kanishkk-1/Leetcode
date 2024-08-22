@@ -770,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Kanishkk-1/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0476-number-complement](https://github.com/Kanishkk-1/Leetcode/tree/master/0476-number-complement) |
 ## Matrix
 |  |
 | ------- |
