@@ -552,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Kanishkk-1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kanishkk-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishkk-1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kanishkk-1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0273-integer-to-english-words](https://github.com/Kanishkk-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/Kanishkk-1/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kanishkk-1/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -777,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Kanishkk-1/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0273-integer-to-english-words](https://github.com/Kanishkk-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kanishkk-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
