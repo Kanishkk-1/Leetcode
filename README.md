@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Kanishkk-1/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Kanishkk-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Kanishkk-1/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kanishkk-1/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Kanishkk-1/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -614,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/Kanishkk-1/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Kanishkk-1/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/Kanishkk-1/Leetcode/tree/master/0726-number-of-atoms) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kanishkk-1/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Kanishkk-1/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kanishkk-1/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -782,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kanishkk-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Kanishkk-1/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Kanishkk-1/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kanishkk-1/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -810,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kanishkk-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Kanishkk-1/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Kanishkk-1/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Kanishkk-1/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kanishkk-1/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
