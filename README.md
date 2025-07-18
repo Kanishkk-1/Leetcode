@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Kanishkk-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Kanishkk-1/Leetcode/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kanishkk-1/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Kanishkk-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Kanishkk-1/Leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kanishkk-1/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Graph
 |  |
 | ------- |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Kanishkk-1/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Kanishkk-1/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Kanishkk-1/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2803-modify-graph-edge-weights](https://github.com/Kanishkk-1/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Kanishkk-1/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -508,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/Kanishkk-1/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Kanishkk-1/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Kanishkk-1/Leetcode/tree/master/2502-sort-the-people) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Kanishkk-1/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/Kanishkk-1/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Kanishkk-1/Leetcode/tree/master/2846-robot-collisions) |
@@ -793,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Kanishkk-1/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kanishkk-1/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Kanishkk-1/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Kanishkk-1/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
