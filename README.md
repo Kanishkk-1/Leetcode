@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/Kanishkk-1/Leetcode/tree/master/2145-grid-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/Kanishkk-1/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Kanishkk-1/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kanishkk-1/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Kanishkk-1/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Kanishkk-1/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Kanishkk-1/Leetcode/tree/master/2502-sort-the-people) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1511-count-number-of-teams](https://github.com/Kanishkk-1/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Kanishkk-1/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Kanishkk-1/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kanishkk-1/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kanishkk-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Kanishkk-1/Leetcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Kanishkk-1/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kanishkk-1/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Kanishkk-1/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2803-modify-graph-edge-weights](https://github.com/Kanishkk-1/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Monotonic Queue
